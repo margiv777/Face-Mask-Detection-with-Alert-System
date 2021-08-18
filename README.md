@@ -23,4 +23,3 @@ OpenCV (Image Analytics)
 MobileNetV2 Architecture (Classifier)
 Python, Numpy
 Matplotlib (Graph)
-
